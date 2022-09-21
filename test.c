@@ -7,6 +7,13 @@ int main(){
     // 코딩부분
     // ~~
     // end
+    printf("수정 수정");
+    printf("수정 수정");
+    printf("수정 수정");
+    printf("수정 수정");
+    printf("수정 수정");
+    printf("수정 수정");
+    printf("수정 수정");
 
     printf("결과");
 
