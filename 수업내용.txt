@@ -19,6 +19,9 @@ git add .
 git commit -m "커밋내용"
 git push origin 브런치
 
+동기화작업
+git pull origin 브런치
+
 
 
  
